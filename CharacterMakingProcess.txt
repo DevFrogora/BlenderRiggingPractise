@@ -1,0 +1,4 @@
+1) Low Poly or High Poly (Sculpting)
+2) Retropology (for Scultiping : To reduce the Polygon of character)
+3) Armature (Ik bone : Line movement , it can control both  child and parents  /  Fk bone: Give Curve movement , its control only child )
+4) 
