@@ -1,5 +1,13 @@
 1) Low Poly or High Poly (Sculpting)
 2) Retropology (for Scultiping : To reduce the Polygon of character)
 3) Armature (Ik bone : Line movement , it can control both  child and parents  /  Fk bone: Give Curve movement , its control only child )
+      a) make sure give the proper name of the bone
+      
 4) Animation : 
       a) DopeSheet : (its also called as Xsheet) its a list of instruction on what to do on each frame , this instruction is use by animator to give animation.
+      b) Action Editor: Contains transform of a particular object (and dope sheet contain a group of action (its can be any object))
+      c) Graph Editor : for smooth ( Check out about F curves https://youtu.be/PlThnja6KmU )
+
+
+5) How to Export
+6) About Avatar in Unity : https://youtu.be/pbaOGZzth6g
