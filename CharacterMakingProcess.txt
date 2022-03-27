@@ -1,4 +1,5 @@
 1) Low Poly or High Poly (Sculpting)
 2) Retropology (for Scultiping : To reduce the Polygon of character)
 3) Armature (Ik bone : Line movement , it can control both  child and parents  /  Fk bone: Give Curve movement , its control only child )
-4) 
+4) Animation : 
+      a) DopeSheet : (its also called as Xsheet) its a list of instruction on what to do on each frame , this instruction is use by animator to give animation.
