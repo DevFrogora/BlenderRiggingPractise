@@ -11,3 +11,8 @@
 
 5) How to Export
 6) About Avatar in Unity : https://youtu.be/pbaOGZzth6g
+
+
+
+For More About Model Creation : https://docs.unity3d.com/Manual/models.html
+Bone Nameing Convention : https://ricardoreis.net/trilibwiki/index.php?title=Avatar_Importing
