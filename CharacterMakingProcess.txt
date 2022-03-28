@@ -16,3 +16,4 @@
 
 For More About Model Creation : https://docs.unity3d.com/Manual/models.html
 Bone Nameing Convention : https://ricardoreis.net/trilibwiki/index.php?title=Avatar_Importing
+Tutorial how to do it : https://www.raywenderlich.com/31539225-creating-reusable-characters-with-blender-and-unity
